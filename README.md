@@ -38,7 +38,7 @@ What titles have been successful searches / applications?
 npm install
 ```
 
-3. Create the database using the officeSchema.sql and seeds.sql files.
+3. Create the database using the Schema.sql and seeds.sql files.
 
 
 4. Run Server
