@@ -1,5 +1,5 @@
 # Project2
-
+# Usage
 Our web application provides a central area for most of what we need to manage the job hunt process. 
 _It is not a job search tool._
 
@@ -25,13 +25,33 @@ How can I streamline the process, especially directly from company sites?
 Which sources have produced better results: Indeed, LinkedIn, company sites?
 What titles have been successful searches / applications?
 
+# Steps to Setup
+1. Clone the repo
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Create the database using the officeSchema.sql and seeds.sql files.
+
+
+4. Run Server
+
+```bash
+node server.js
+```
+
+
+
 Built With:
 HTML, CSS, JavaScript, Node, Express, MySQL and sequelize, MVC, Heroku(It`s optional), Passport .
 
 Authors:
 Team numbet10  
-#Justin Torres
-#Tanner austin
-#Yasha Asgharpour
+# Justin Torres
+# Tanner austin
+# Yasha Asgharpour
 
 # Project-2
