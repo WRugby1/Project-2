@@ -26,8 +26,8 @@ Which sources have produced better results: Indeed, LinkedIn, company sites?
 What titles have been successful searches / applications?
 
 Built With:
-HTML, CSS, JavaScript, Node, Express, MySQL and sequelize, MVC, Heroku, JawsdB, Passport and dcrypt.
+HTML, CSS, JavaScript, Node, Express, MySQL and sequelize, MVC, Heroku, Passport and dcrypt.
 
 Authors:
-Isha Khan, Mark Bloodgood, Joseph Esquitin, and Andrew Bain.
+
 # Project-2
