@@ -25,6 +25,10 @@ How can I streamline the process, especially directly from company sites?
 Which sources have produced better results: Indeed, LinkedIn, company sites?
 What titles have been successful searches / applications?
 
+# Preview
+
+# Link
+
 # Steps to Setup
 1. Clone the repo
 
@@ -48,10 +52,10 @@ node server.js
 Built With:
 HTML, CSS, JavaScript, Node, Express, MySQL and sequelize, MVC, Heroku(It`s optional), Passport .
 
-Authors:
-Team numbet10  
+# Authors(teqam number 10):
+ 
 # Justin Torres
 # Tanner austin
 # Yasha Asgharpour
 
-# Project-2
+
