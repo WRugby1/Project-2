@@ -55,7 +55,7 @@ HTML, CSS, JavaScript, Node, Express, MySQL and sequelize, MVC, Heroku(It`s opti
 # Authors(teqam number 10):
  
 # Justin Torres
-# Tanner austin
+# Tanner Austin
 # Yasha Asgharpour
 
 
